@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Maria
+# ¡HI! 👋 
 
 I’m **María**, a PhD candidate in Social Psychology with a strong quantitative background.
 
