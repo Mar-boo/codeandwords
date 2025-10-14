@@ -41,7 +41,7 @@ Otra descripción breve, clara y profesional.
 
 ## 📫 Contact
 
-Puedes encontrarme en:
+You can find me at:  
 - 💼 [LinkedIn](www.linkedin.com/in/maria-montagud-dataanalyst)
 
 ---
