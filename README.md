@@ -38,6 +38,6 @@ Under construction...
 ## 📫 Contact
 
 You can find me at:  
-- 💼 [LinkedIn](www.linkedin.com/in/maria-montagud-dataanalyst)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maria-montagud-dataanalyst/)
 
 ---
