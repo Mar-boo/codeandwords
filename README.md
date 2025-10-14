@@ -23,11 +23,7 @@ with the goal of **contributing to evidence-based public policies**.
 
 ## 💼 Projects
 
-🔹 [Nombre del proyecto 1](https://github.com/tuusuario/proyecto1)  
-Descripción breve del proyecto, qué hace y con qué tecnologías.
-
-🔹 [Nombre del proyecto 2](https://github.com/tuusuario/proyecto2)  
-Otra descripción breve, clara y profesional.
+Under construction...
 
 ---
 
